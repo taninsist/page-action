@@ -2,7 +2,7 @@
   "name": "github-actions-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://taninsist.github.io/github-actions-demo",
+  "homepage": "https://taninsist.github.io/page-action",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
